@@ -1,2 +1,1 @@
-# Practice-IPT
-Lezzgooo!
+# Landing-Page
