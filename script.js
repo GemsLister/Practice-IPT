@@ -54,7 +54,7 @@ box2.addEventListener("click", () => {
  
 );
    // get the button by its ID
-    const btn = document.getElementById("signupBtn");
+    const btn = document.getElementById("balong");
 
     // add an event listener for "click"
     btn.addEventListener("click", function() {
