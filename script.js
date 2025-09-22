@@ -50,5 +50,13 @@ box2.addEventListener("click", () => {
   // reset box1 subtext
   why.textContent = originalWhy;
   why.style.color = ""; 
-});
+}
+ 
+);
+   // get the button by its ID
+    const btn = document.getElementById("signupBtn");
 
+    // add an event listener for "click"
+    btn.addEventListener("click", function() {
+      alert("Hello World!");
+    });
